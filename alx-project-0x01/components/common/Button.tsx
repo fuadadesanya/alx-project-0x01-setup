@@ -1,4 +1,4 @@
-import Button from "./Header";
+import Button from "../layout/Header";
 
 const Layout: React.FC = ({ children }) => {
   return (
